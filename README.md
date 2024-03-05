@@ -54,6 +54,7 @@ java -jar applications/data-analyzer-server/build/libs/data-analyzer-server-1.0-
 ## Production
 
 Building a Docker container and running with Docker.
+docker build - < Dockerfile
 
 ## Buildpacks
 
